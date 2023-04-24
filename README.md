@@ -18,7 +18,7 @@ $ python
 # Run Server (http://localhst:5000)
 python app.py
 ```
-##Endpoints
+## Endpoints
 
 * GET     /product
 * GET     /product/:id
